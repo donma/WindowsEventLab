@@ -1,5 +1,5 @@
 
-# FIDO2 WEBAUTH SIMPLE SAMPLE
+# Windows 4624 Event Helper
 
 C# sample Call 4624 Event From PowerShell
 
